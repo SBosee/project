@@ -1,0 +1,7 @@
+.input-text {
+  width: min-content;
+  border: 0;
+}
+.input-text:focus {
+  outline: 0;
+}
